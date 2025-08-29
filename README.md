@@ -105,7 +105,7 @@
 
 如果遇到问题，请：
 
-1. 访问 [Issues页面](https://github.com/BX/go-home-mod/issues)
+1. 访问 [Issues页面](https://github.com/BX-mc/GOHOME/issues)
 2. 点击 "New Issue"
 3. 描述您遇到的问题
 
